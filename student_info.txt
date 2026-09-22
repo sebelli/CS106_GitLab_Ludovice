@@ -2,3 +2,4 @@ Student Name: Sebastian Elli M. Ludovice
 Student ID: 2025-01-17387
 Section: BSCS 2B
 Course: CS 106 - App Dev
+Topic: Git bash Fundamentals
